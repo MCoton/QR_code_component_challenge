@@ -19,15 +19,12 @@ img {
 }
 
 .call-to-action {
-    box-sizing: border-box;
-    text-align: center;
-    padding: 0 35px;
-}
-
-.call-text {
-    font-size: 25px;
+    font-size: 24px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+    box-sizing: border-box;
+    text-align: center;
+    padding: 0 20px;
 }
 
 .instructions {
