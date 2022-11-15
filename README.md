@@ -64,5 +64,4 @@ https://www.w3schools.com/howto/howto_css_image_responsive.asp
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Martin_Coton](https://www.twitter.com/Martin_Coton)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
